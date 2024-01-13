@@ -250,7 +250,7 @@ fieldset {
   background: rgba(253, 253, 253, 0.6);
   right: 150px;
   bottom: 175px;
-  transition: all .3s;
+  transition: all 0.3s;
 }
 
 .about__video-play:hover {
@@ -835,7 +835,7 @@ fieldset {
   text-decoration: none;
 }
 
-.footer__services-list-item:hover .footer__link{
+.footer__services-list-item:hover .footer__link {
   color: #f2be22;
   text-decoration: underline;
 }
@@ -880,7 +880,7 @@ fieldset {
   height: 10px;
 }
 
-.footer__important-list-item:hover .footer__link{
+.footer__important-list-item:hover .footer__link {
   color: #f2be22;
   text-decoration: underline;
 }
